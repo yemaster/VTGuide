@@ -1,0 +1,27 @@
+[
+	{
+		"name": "云社区",
+		"link": "cloud_community"
+	},
+	{
+		"name": "代码托管",
+		"link": "gitrepo"
+	},
+	{
+		"name": "各大OJ",
+		"link": "ojlist",
+		"link_list": [
+			{
+				"logo":
+			}
+		]
+	},
+	{
+		"name": "学习网站",
+		"link": "studyWeb"
+	},
+	{
+		"name": "云服务商",
+		"link": "cloud"
+	}
+]
